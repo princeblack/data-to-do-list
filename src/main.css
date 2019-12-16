@@ -1,0 +1,23 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #d69e76;
+}
+
+#mainContainer {
+  width: 100%;
+  text-align: center;
+  display: grid;
+}
+#mainContainer #addList {
+  width: 150px;
+  height: 150px;
+}
+#mainContainer #addList .write-img {
+  width: 150px;
+  height: 150px;
+  color: antiquewhite;
+}
+
+/*# sourceMappingURL=main.css.map */

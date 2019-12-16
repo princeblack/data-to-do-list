@@ -1,0 +1,21 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(214, 158, 118);
+}
+#mainContainer{
+    width: 100%;
+    text-align: center;
+    display: grid;
+    #addList{
+        width: 150px;
+        height: 150px;
+        .write-img{
+            width: 150px;
+            height: 150px;
+            color: antiquewhite;
+
+        }
+    }
+}
